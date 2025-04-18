@@ -25,10 +25,10 @@ QuickNotes is a lightweight, user-friendly React-based note-taking application t
 
 
 
-## Installation![Uploading qc.png…]()
+## Installation!
 
 
-Follow these steps to set up the project locally:![Uploading qc.png…]()
+Follow these steps to set up the project locally:!
 
 
 1. Clone the repository:
